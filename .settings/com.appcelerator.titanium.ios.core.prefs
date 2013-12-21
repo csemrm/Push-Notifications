@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=Push Notifications
+iosLaunchConfigurationAttributes/appid=com.mrtechnologybd.pushnotify
+iosLaunchConfigurationAttributes/certificate=Motiur Rahman (YRDJ7X84S2)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=7.0.3
+iosLaunchConfigurationAttributes/uuid=B57F0DFF-431E-4372-9996-CA9BFD89E7E3
+provisioning_profiles/development/0573838E-034F-4974-8672-6B2B7BFBDF63/appid=com.mrtechnologybd.pushnotify
+provisioning_profiles/development/0573838E-034F-4974-8672-6B2B7BFBDF63/name=push notification
+provisioning_profiles/development/0573838E-034F-4974-8672-6B2B7BFBDF63/uuid=0573838E-034F-4974-8672-6B2B7BFBDF63
+provisioning_profiles/development/B57F0DFF-431E-4372-9996-CA9BFD89E7E3/appid=com.mrtechnologybd.*
+provisioning_profiles/development/B57F0DFF-431E-4372-9996-CA9BFD89E7E3/name=Milon
+provisioning_profiles/development/B57F0DFF-431E-4372-9996-CA9BFD89E7E3/uuid=B57F0DFF-431E-4372-9996-CA9BFD89E7E3
